@@ -58,7 +58,7 @@
   </header>
   <div class="banner" >
     <div class="container">
-      <h1 class="font-weight-semibold">Telusuri Permohonan Anda<br>di KPKNL Jakarta 1</h1>
+      <h1 class="font-weight-semibold">Daftar Pertanyaan & Telusuri<br>Permohonan Anda</h1>
       <h6 class="font-weight-normal text-muted pb-3">Untuk mengetahui proses permohonan Pengelolaan BMN, Lelang dan Pengurusan Piutang Negara Anda.</h6>
       <div>
         <a href="#daftar" class="btn btn-opacity-light mr-1">Daftar Pertanyaan</a>
