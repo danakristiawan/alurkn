@@ -38,6 +38,9 @@
             <a class="nav-link" href="#header-section">Home <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
+            <a class="nav-link" href="#faq">FAQ</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link" href="#bmn">BMN</a>
           </li>
           <li class="nav-item">
@@ -61,15 +64,15 @@
       <h1 class="font-weight-semibold">Daftar Pertanyaan & Telusuri<br>Permohonan Anda</h1>
       <h6 class="font-weight-normal text-muted pb-3">Untuk mengetahui proses permohonan Pengelolaan BMN, Lelang dan Pengurusan Piutang Negara Anda.</h6>
       <div>
-        <a href="#daftar" class="btn btn-opacity-light mr-1">Daftar Pertanyaan</a>
-        <a href="#exampleModal" class="btn btn-opacity-success ml-1">Telusuri Berkas</a>
+        {{-- <a href="#daftar" class="btn btn-opacity-light mr-1">Daftar Pertanyaan</a> --}}
+        <a href="#exampleModal" class="btn btn-opacity-light ml-1">Telusuri Permohonan Layanan Anda</a>
       </div>
       <img src="{{ url('theme/landing/images/Group171.svg') }}" alt="" class="img-fluid">
     </div>
   </div>
   <div class="content-wrapper">
     <div class="container">
-      <section class="features-overview" id="daftar" >
+      <section class="features-overview" id="faq" >
         <div class="content-header">
           <h2>Daftar Pertanyaan</h2>
           <h6 class="section-subtitle text-muted">Berisi daftar pertanyaan yang sering ditanyakan seputar layanan KPKNL Jakarta 1.</h6>
