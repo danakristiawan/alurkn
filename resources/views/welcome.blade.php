@@ -65,7 +65,7 @@
       <h6 class="font-weight-normal text-muted pb-3">Untuk mengetahui proses permohonan Pengelolaan BMN, Lelang dan Pengurusan Piutang Negara Anda.</h6>
       <div>
         {{-- <a href="#daftar" class="btn btn-opacity-light mr-1">Daftar Pertanyaan</a> --}}
-        <a href="#exampleModal" class="btn btn-opacity-light ml-1">Telusuri Permohonan Layanan Anda</a>
+        <a href="#exampleModal" class="btn btn-opacity-light ml-1">Telusuri Permohonan Anda Sekarang!</a>
       </div>
       <img src="{{ url('theme/landing/images/Group171.svg') }}" alt="" class="img-fluid">
     </div>
